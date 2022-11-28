@@ -1,2 +1,2 @@
-<h3>Hello</h3>
+<h1 align="center">Hi there<img src="" alt="" width="auto" height="auto">, I'm AlFarhaan Khan I Inamdar</h1>
  
