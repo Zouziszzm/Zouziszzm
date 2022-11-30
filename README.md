@@ -10,6 +10,4 @@
 
 - 📝 I regularly write articles on [theonethatstartedlate](https://theonethatstartedlate.hashnode.dev)
 
-- 📫 How to reach me **Farhumaid@gmail.com**
-
 - ⚡ Fun fact **A dev by day a Gamer By night.**
