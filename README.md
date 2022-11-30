@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Backend**
 
-- 🤝 I’m looking for help with **Frontend projects**
+- 🤝 I’m looking for help with **Frontend/Backend**
 
 - 📝 I regularly write articles on [theonethatstartedlate](https://theonethatstartedlate.hashnode.dev)
 
