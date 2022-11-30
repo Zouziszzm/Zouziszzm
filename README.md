@@ -6,10 +6,10 @@
 
 - 🌱 I’m currently learning **JavaScript, Backend**
 
-- 🤝 I’m looking for help with **Frontend/Backend**
+- 🤝 I’m looking for help with **Frontend Projects**
 
 - 📝 I regularly write articles on [theonethatstartedlate](https://theonethatstartedlate.hashnode.dev)
 
 - 📫 How to reach me **Farhumaid@gmail.com**
 
-- ⚡ Fun fact **I Am a Gamer By night.**
+- ⚡ Fun fact **A dev by day a Gamer By night.**
