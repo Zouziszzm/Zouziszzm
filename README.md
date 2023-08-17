@@ -39,10 +39,10 @@
 <p align="center">Play</p>
 <p align="center">
   <a href="https://discord.gg/JMqmmN8xHc">
-   <img src="https://img.shields.io/badge/-Zouziszzm-black?style=flat-square&logo=Discord&logoColor=#7289da&link=https://discord.gg/JMqmmN8xHc"/>
+   <img src="https://img.shields.io/badge/-Zouziszzm-black?style=flat-square&logo=Discord&logoColor=#7289da&link=https://discord.gg/JMqmmN8xHc" target="_blank"/>
   </a>
   <a href="https://steamcommunity.com/id/Zouziszzm/">
-   <img src="https://img.shields.io/badge/-Zouziszzm-black?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/Zouziszzm/"/>
+   <img src="https://img.shields.io/badge/-Zouziszzm-black?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/Zouziszzm/" target="_blank"/>
   </a>
 </p>
 
