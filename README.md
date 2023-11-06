@@ -12,9 +12,11 @@
 <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=orange"/>
 <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue"/>
 <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/-Tailwindcss-black?style=flat-square&logo=tailwindcss"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-Next-black?style=flat-square&logo=next.js"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
