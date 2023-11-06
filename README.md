@@ -14,10 +14,16 @@
 <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-Tailwindcss-black?style=flat-square&logo=tailwindcss"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Wordpress-black?style=flat-square&logo=wordpress"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux"/>
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express"/>
 <img src="https://img.shields.io/badge/-Next-black?style=flat-square&logo=next.js"/>
+<img src="https://img.shields.io/badge/-Mongodb-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-MySql-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest"/>
+<img src="https://img.shields.io/badge/-Mocha-black?style=flat-square&logo=mocha"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
