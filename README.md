@@ -14,6 +14,8 @@
 <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-Tailwindcss-black?style=flat-square&logo=tailwindcss"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/-c%23-black?style=flat-square&logo=csharp"/>
 <img src="https://img.shields.io/badge/-Wordpress-black?style=flat-square&logo=wordpress"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux"/>
@@ -24,8 +26,11 @@
 <img src="https://img.shields.io/badge/-MySql-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest"/>
 <img src="https://img.shields.io/badge/-Mocha-black?style=flat-square&logo=mocha"/>
+<img src="https://img.shields.io/badge/-Chai-black?style=flat-square&logo=chai"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion"/>
+<img src="https://img.shields.io/badge/-Obsidian-black?style=flat-square&logo=obsidian"/>
 </p>
 
 
